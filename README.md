@@ -35,25 +35,6 @@ Overall, the E-Commerce application is a promising prototype with a responsive U
 ![App Screenshot](https://tejasbadone.web.app/assets/img/portfolio/apps/eshop/eshop3-01.png)
 
 
-## Setup
-
-Run the following commands from your terminal:
-
-1) `https://github.com/tejasbadone/E-Shop.git` to clone this repository 
-
-2) `flutter pub get` in the project root directory to install all the required dependencies.
-    
-
-## Tech Stack
-
-**Client:** Flutter
-
-**Server:** JSON API
-
-
-## Note
-Since this is a prototype users cannot do actual transaction
-
 
 ## License
 
